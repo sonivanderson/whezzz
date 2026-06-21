@@ -6,4 +6,4 @@ Unique portfolio project built with Python.
 - Practical idea
 - Simple architecture
 - Easy customization
-- GitHub friendly
+
